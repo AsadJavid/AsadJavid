@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asad</h1>
 <h3 align="center">A Freelance iOS Developer</h3>
 
-- 🌱 I’m currently learning **SwiftUI, SwiftData**
+- 🌱 I’m currently learning **Cross Platform mobile development**
 
 - 👨‍💻 All of my projects are available at [https://asadjavid.dev/work/](https://asadjavid.dev/work/)
 
